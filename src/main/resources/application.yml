@@ -5,3 +5,4 @@ spring:
     active: dev
   jpa:
     open-in-view: true
+comment.avatar: /images/avatar.png
